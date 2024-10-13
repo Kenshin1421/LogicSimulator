@@ -1,0 +1,7 @@
+title
+input number
+output number
+1010
+0101
+1010
+1111
